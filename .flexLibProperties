@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="com.objecthandles.Flex3ChildManager"/>
+    <classEntry path="com.objecthandles.IResizeable"/>
+    <classEntry path="com.objecthandles.constraints.MovementConstraint"/>
+    <classEntry path="com.objecthandles.HandleRoles"/>
+    <classEntry path="com.objecthandles.decorators.OutlineDecorator"/>
+    <classEntry path="com.objecthandles.decorators.WebDecorator"/>
+    <classEntry path="com.objecthandles.IChildManager"/>
+    <classEntry path="com.objecthandles.DragGeometry"/>
+    <classEntry path="com.objecthandles.IHandle"/>
+    <classEntry path="com.objecthandles.SpriteHandle"/>
+    <classEntry path="com.objecthandles.IMoveable"/>
+    <classEntry path="com.objecthandles.ObjectChangedEvent"/>
+    <classEntry path="com.objecthandles.ObjectHandles"/>
+    <classEntry path="com.objecthandles.constraints.SizeConstraint"/>
+    <classEntry path="com.objecthandles.HandleDescription"/>
+    <classEntry path="com.objecthandles.decorators.AlignmentDecorator"/>
+    <classEntry path="com.objecthandles.ObjectHandlesSelectionManager"/>
+    <classEntry path="com.objecthandles.CircleHandle"/>
+    <classEntry path="com.objecthandles.SelectionEvent"/>
+    <classEntry path="com.objecthandles.decorators.IDecorator"/>
+    <classEntry path="com.objecthandles.HandleDefinitions"/>
+    <classEntry path="com.objecthandles.IConstraint"/>
+    <classEntry path="com.objecthandles.Flex4ChildManager"/>
+    <classEntry path="com.objecthandles.decorators.DecoratorManager"/>
+    <classEntry path="com.objecthandles.VisualElementHandle"/>
+    <classEntry path="com.objecthandles.HandleClickedEvent"/>
+    <classEntry path="com.objecthandles.Flex4HandleFactory"/>
+    <classEntry path="com.objecthandles.constraints.MaintainProportionConstraint"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
