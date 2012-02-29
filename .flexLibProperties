@@ -29,6 +29,7 @@
     <classEntry path="com.objecthandles.HandleClickedEvent"/>
     <classEntry path="com.objecthandles.Flex4HandleFactory"/>
     <classEntry path="com.objecthandles.constraints.MaintainProportionConstraint"/>
+    <classEntry path="com.objecthandles.HandleObjectHelper"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>
